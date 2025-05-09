@@ -1,1 +1,1 @@
-# MyProjects
+Its a content based book recommendation system which suggest book based on users choice in the books.
